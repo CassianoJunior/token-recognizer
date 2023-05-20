@@ -1,3 +1,118 @@
+Especialistas criticam proibição do TikTok em Montana, nos EUA
+O principal ponto levantado é a dificuldade de proibir o funcionamento do app em apenas um único estado
+A proibição total do TikTok no estado americano de Montana caminha para uma batalha judicial, enquanto especialistas questionam se a medida é sequer tecnicamente viável.
+Montana é o primeiro estado do país a proibir o uso da plataforma. A lei entrará em vigor no ano que vem, em meio ao debate sobre o impacto e a segurança do popular aplicativo de compartilhamento de vídeos curtos de propriedade da empresa chinesa ByteDance. 
+"Você teria que construir a Grande Muralha de Montana", disse Tarah Wheeler, diretora da empresa de cibersegurança Red Queen Dynamics e pesquisadora sênior de Política Cibernética Global no "think tank" americano Council on Foreign Relations, em alusão à histórica Grande Muralha da China.
+“Não é possível manter uma proibição no estado e manter-se livre do tipo de vigilância da qual se está tentando escapar”, acrescentou.
+A medida servirá como um teste legal para uma proibição em nível nacional da plataforma, algo que os congressistas em Washington vêm pedindo cada vez mais.
+Cinco criadores de conteúdo do TikTok no estado já entraram com uma ação em tribunal federal, argumentando que a proibição é ilegal e viola os direitos de liberdade de expressão.
+Vários políticos americanos acusam o aplicativo de estar sob a tutela do governo chinês e de ser uma ferramenta de espionagem de Pequim. O TikTok nega, inequivocamente, essa acusação. E, nesse contexto, enfrenta o ultimato da Casa Branca para se separar de seus proprietários chineses, ou parar de operar nos Estados Unidos.
+De acordo com a lei sancionada na quarta-feira (17) pelo governador Greg Gianforte, uma violação ocorre cada vez que "um usuário acessa o TikTok, lhe é oferecida a possibilidade de acessar o TikTok ou de fazer o download do TikTok".
+Na opinião do diretor da Cyber Threat Alliance, Michael Daniel, Montana não conseguiria fazer cumprir essa proibição "sem fazer um monte de outras coisas que não queremos que os governos de qualquer nível nos Estados Unidos possam fazer".
+É provável que os jovens fãs do TikTok aproveitem um software gratuito para obter uma rede privada virtual (VPN), por meio da qual as pessoas mudam a localização dos dispositivos.
+Além disso, é possível que os adolescentes de Montana com conhecimento de tecnologia usem o VPN para serem vistos iniciando a sessão de outros estados, explicou Wheeler, o que também apresenta vulnerabilidades para spywares, ou malwares à espreita em algumas redes VPN.
+Embora a proibição tenha sido aprovada sob a justificativa de proteger os usuários do TikTok em Montana da suposta intromissão chinesa, não houve nenhuma evidência clara disso, afirmou Jason Kelley, diretor interino do grupo de direitos em Internet Electronic Frontier Foundation.
+É a falta de uma lei nacional de privacidade de dados nos Estados Unidos que deixa os usuários vulneráveis, com corredores livres para compilar e vender informação dos usuários da internet, acrescentou.
+"Se a China quiser dados do usuário, ela pode, simplesmente, ir comprá-los", disse Kelley à AFP.
+O projeto de lei por trás da proibição mencionava as brincadeiras do TikTok apelidadas de "desafios". Um legislador de Montana lamentou que seu filho tivesse participado de uma delas.
+“Lendo nas entrelinhas, acho que esses legisladores estão zangados porque não entendem a cultura do TikTok e como os jovens usam” o aplicativo, completou Kelley.
+“Os legisladores de Montana queriam fazer qualquer coisa para contrabalançar o impacto negativo de adolescentes sendo adolescentes e também a influência do TikTok para fazer coisas estúpidas”, opinou.
+A proibição entrará em vigor em 2024, mas será suspensa se o TikTok for adquirido por uma empresa constituída em um país não considerado pelos Estados Unidos como uma ameaça estrangeira, diz o texto da lei.
+
+
+Salesforce World Tour destaca 5 gaps na experiência do cliente
+Evento da Salesforce reuniu mais de 3 mil pessoas no Transamérica Expo Center, em São Paulo, para debater soluções e cases de sucesso
+Mais de 3.000 clientes e parceiros da Salesforce se reuniram nesta quarta (dia 17) no Transamérica Expo Center, em São Paulo, para acompanhar o Salesforce World Tour São Paulo 2023, evento que reuniu a comunidade Trailblazer em peso para debater soluções em inteligência artificial (IA), dados e CRM para o futuro dos negócios.
+Com a apresentação de 19 cases  de empresas como o Inter, PagBrasil, Petrobras e iFood, o encontro foi comandado por Fabio Costa, general manager da Salesforce no Brasil. Em seu discurso, o executivo reforçou a importância da educação continuada para o desenvolvimento dos negócios.
+Fabio Costa, general manager da Salesforce: para o exectivo, é possível ter performance sem ser um ambiente tóxico (Salesforce/Divulgação)
+Para Costa, é preciso entender que, mais do que nunca, os clientes esperam que as empresas não só antecipem as suas necessidades, mas que também ofereçam experiências cada vez mais personalizadas.
+E, para isso, elas precisam fechar o “gap da experiência”, sejam ele causado por sistemas ineficientes, processos, gap de talentos ou pela colocação de dados em silos. "A inovação e a tecnologia acontecem todos os dias e você precisa se manter competente."
+Outro ponto defendido pelo executivo é a prática de um capitalismo mais responsável, com especial cuidado para a saúde mental dos colaboradores. “Você pode ter uma performance empresarial sem ser um ambiente tóxico”, disse  Costa. "Conseguimos crescer cuidando do entorno em que trabalhamos. Somos líder em inovação, em cultura e filantropia. Somos um parâmetro global de capitalismo responsável."
+Não se fala em outra coisa. Desde o lançamento do Chat GPT, em novembro de 2022, o uso da inteligência artificial tem ganhado o centro das discussões. E durante o Salesforce World Tour São Paulo 2023 não poderia ser diferente.
+Mas como adaptar a potencialidade da IA para o mundo dos negócios? Para Joana Machado, VP de Vendas da Salesforce, o caminho passa por uma boa base de dados para alimentar a tecnologia. “A inteligência artificial é tão boa quanto os nossos dados”, reforçou.
+O segredo do sucesso, explica, passa por três pilares: IA, Dados e CRM -- uma “tríade” que diz se traduz em um sistema de CRM pautado em dados e informações, e alimentado por uma IA generativa.
+O que já pode ser visto na prática, pelo Einstein GPT. O Einstein da Salesforce revolucionou o processo tradicional de sistemas de classificação baseado em regras.
+Aprendendo com exemplos de casos já classificados como urgentes ou não urgentes, o Einstein usa aprendizado de máquina para determinar as características que definem a diferença entre as duas classificações. "Essa tecnologia tem o potencial de auxiliar em diversas áreas, como respostas de email, campanhas de marketing criativas e até mesmo na programação de software”, diz Gabriel Dornella, diretor de engenharia de soluções da Salesforce.
+Para falar sobre como a Salesforce tem sido uma parceira na jornada de crescimento do Inter , que desde 2019 deixou de ser uma instituição financeira para se tornarem uma plataforma completa de serviços, Priscila Salles, CMO da empresa, e Ray Chalub, COO, estiveram no Salesforce World Tour São Paulo 2023.
+Priscila Salles, CMO do Inter, e Ray Chalub, COO da companhia: escala com a ajuda de ferramentas deautomação de jornadas (Salesforce/Divulgação)
+“Saímos de mil clientes para 27 milhões. Quando escalamos, vimos que não seria possível sem as ferramentas de automação de jornadas”, conta Salles.
+Hoje, com uma taxa de abertura de 40 mil contas por dia, e um aumento de 35 vezes do ROI, o Inter conta com as soluções como o Salesforce Marketing Cloud, Service Cloud, Sales Cloud, Tableau, Slack, além de fazerem o uso do WhatsApp para ajudar na comunicação, também a partir da plataforma da Salesforce.
+“Somamos todas as informações na plataforma da Salesforce e demos mais autonomia para os nossos atendentes para que a gente possa prever o que o cliente vai precisar", celebra a CMO. “Hoje temos 'agências' nas palmas das mãos dos clientes”, afirma Chalub.
+
+
+Twitter acusa Microsoft de uso abusivo de seus dados
+O Twitter afirma que a Microsoft usou mais dados do que tinha direito e compartilhou alguns deles com agências governamentais sem autorização
+Elon Musk acusou a Microsoft de não ter respeitado seu acordo com o Twitter sobre o uso de dados da rede social, uma reclamação que ocorre em meio à corrida pelo domínio da inteligência artificial, alimentada por dados digitais.
+"A Microsoft parece ter usado a API (interface de programação de aplicativos, ndr) do Twitter com fins não autorizados", disse Alex Spiro, advogado de Musk, em carta enviada nesta quinta-feira a Satya Nadella, chefe da gigante da informática, à qual a AFP teve acesso.
+O Twitter afirma que a Microsoft usou mais dados do que tinha direito e compartilhou alguns deles com agências governamentais sem autorização.
+Comprada em outubro por Musk, a plataforma destacou, também, que a Microsoft “se recusou a pagar, inclusive, uma taxa reduzida para continuar acessando as APIs do Twitter e seu conteúdo".
+As APIs permitem que outras empresas, como a Microsoft, desenvolvam ferramentas para seus próprios produtos (software publicitário, aplicativos na nuvem, etc). “Apesar das limitações, os programas da Microsoft acessaram as APIs do Twitter mais de 780 milhões de vezes e recuperaram mais de 26 bilhões de tuítes apenas em 2022”, afirma a carta, antes de pedir uma auditoria detalhada.
+A Microsoft confirmou à AFP que recebeu uma carta de um escritório de advocacia que representa o Twitter com algumas indagações sobre o uso de sua API gratuita. "Iremos revisar estas questões e respondê-las apropriadamente", disse um porta-voz da empresa.
+Em situação financeira precária, o Twitter anunciou em março que os desenvolvedores iriam ter que pagar mais para acessar seus serviços e dados. No mês passado, Musk acusou a Microsoft "de entregar ilegalmente" sua tecnologia de inteligência artificial (IA) a partir de dados do Twittter. "A hora do processo chegou", tuitou.
+O sucesso do ChatGPT, interface de IA conversacional da OpenAI, lançou uma corrida entre as gigantes da tecnologia. A Microsoft parece ter tomado o primeiro lugar, principalmente por seus investimentos significativos na OpenAI.
+O grupo de Redmond compete com o Google nos anúncios de numerosas ferramentas de IA generativa em seus mecanismos de busca, em softwares de serviços e em seus respectivos serviços de nuvem. Estas interfaces, porém, dependem de modelos de linguagem robustos, sistemas de IA treinados com montanhas de dados para serem capazes de formar frases coerentes ou criar imagens convincentes.
+Musk, que cofundou a OpenAI em 2015, antes de deixar a empresa, fundou recentemente sua própria sociedade de IA, chamada X.AI.
+LEIA TAMBÉM:
+
+
+EUA: Suprema Corte decide que Twitter e outras redes sociais não ajudaram terrorismo
+Decisão unânime reforça dever das plataformas de remover propaganda terrorista, mas evita questões mais amplas sobre responsabilidade pelo conteúdo publicado
+A Suprema Corte dos Estados Unidos rejeitou uma ação para responsabilizar o Twitter e outras redes sociais por um ataque do Estado Islâmico. A decisão foi unânime e reafirma os deveres das plataformas online de remover propaganda terrorista, mas evita questões mais amplas sobre sua responsabilidade pelo conteúdo publicado.
+Em outra decisão separada, o tribunal evitou questões sobre a Seção 230, uma lei fundamental da internet que protege as plataformas da responsabilidade por conteúdo gerado pelos usuários. Nessa ordem não assinada de três páginas, o tribunal disse que não precisava decidir se a Seção 230 protege o YouTube de responsabilidade potencial por recomendar vídeos de recrutamento do Estado Islâmico aos usuários.
+Foi uma vitória significativa mas limitada das grandes empresas de tecnologia na batalha para restringir sua responsabilidade pelas ações dos usuários em suas plataformas. A controladora do Google, a Alphabet, que inclui o YouTube, alertou que uma contestação bem-sucedida da Seção 230 poderia "subverter a internet".
+Depois de ouvir argumentos orais em fevereiro, o tribunal pode ter decidido que esses casos não eram os meios ideais por onde abordar a lei, disse Alan Rozenshtein, professor da Escola de Direito da Universidade de Minnesota.
+"Em algum momento, a Corte terá de aceitar outro caso que envolve a Seção 230" para resolver as discordâncias entre os tribunais inferiores, acrescentou Rozenshtein. "É uma coisa muito grande para evitar para sempre. Mas a Seção 230 ainda tem pelo menos mais alguns anos."
+A Câmara do Progresso, um grupo comercial que representa grandes empresas de tecnologia, disse que as dificuldades práticas de reduzir as proteções legais das plataformas dissuadiram os juízes.
+"Embora o Supremo Tribunal possa ter tido um apetite por reinterpretar décadas da lei da internet, ficou claro a partir de argumentos orais que mudar a interpretação da Seção 230 criaria mais problemas do que resolveria", disse o advogado do grupo Jess Miers.
+
+
+OpenAI estreia aplicativo do ChatGPT para iPhone
+App chega apenas para o mercado americano, mas com a promessa de expansão global e versão para o Android
+A OpenAI anunciou nesta quinta-feira, 18, a disponibilidade de um aplicativo ChatGPT para dispositivos iOS. O app, que é gratuito, permite a sincronização do histórico de bate-papo com a versão Web e oferece recursos de entrada por voz, graças à integração com o Whisper, modelo de reconhecimento de fala de código aberto da OpenAI.
+Disponível para download na App Store, tanto para iPhones quanto para iPads, o lançamento inicial está focado nos Estados Unidos. Contudo, a OpenAI garante que o aplicativo chegará a outros países em poucas semanas. A empresa também prometeu que, em breve, terá uma versão para Android.
+A OpenAI não havia indicado previamente que um aplicativo móvel estaria em seus planos, no entanto, a ideia é consistente com a ampla aceitação que o ChatGPT vem recebendo. O chatbot de IA, lançado em novembro do ano passado, viu um aumento expressivo em seu uso.
+Ainda que a OpenAI não tenha confirmado, algumas estimativas sugerem que o número de usuários chegou à marca de 100 milhões em janeiro.
+A chegada do aplicativo é uma reviravolta interessante para a OpenAI, considerando que o ChatGPT foi inicialmente introduzido como um experimento.
+Rapidamente, o chatbot encontrou um público engajado, que o utiliza para tarefas que vão desde redações acadêmicas até a criação de planos de negócios. Em resposta a essa demanda, a OpenAI disponibilizou em fevereiro a assinatura premium do ChatGPT Plus, que oferece acesso prioritário e respostas geradas pelo modelo de linguagem mais avançado da empresa, o GPT-4, por US$ 20 mensais.
+Anteriormente, a maneira mais eficaz de acessar os modelos de linguagem da OpenAI em dispositivos móveis era por meio do aplicativo Bing da Microsoft, que inclui o chatbot da empresa com GPT-4. Agora, o aplicativo oficial do ChatGPT deve atrair esses usuários, e potencialmente minimizar o número de pessoas que recorrem a aplicativos não oficiais, de spam ou falsos, que afirmam oferecer acesso ao chatbot.
+Entretanto, os problemas já conhecidos do ChatGPT na web persistem na versão móvel, entre eles a propensão do bot a inventar informações com total convicção e as preocupações com a privacidade.
+A OpenAI adicionou recentemente a opção de tornar as conversas privadas, mas ainda alerta os usuários na tela inicial do aplicativo para evitarem o compartilhamento de "informações confidenciais".
+
+
+Com auxílio de IA, Mercado Livre registra menos de 1% de produtos irregulares na plataforma
+Entre 563 milhões de anúncios criados ou modificados no ano passado, 0,56% tinha algum tipo de violação de uso do marketplace
+Para conter o avanço de pirataria, erros e insegurança de dados em anúncios em sua plataforma, o Mercado Livre tem desenvolvido um intenso trabalho de automatização da moderação de anúncios. No quinto Relatório de Transparência que divulga, referente ao segundo semestre de 2022, a empresa sinalizou um avanço significativo nesse sentido: entre julho e dezembro, apenas 0,56% dos mais de 563 milhões de anúncios criados ou modificados no período precisaram ser moderados devido à violação das regras da plataforma.
+Desse total de anúncios moderados, aproximadamente 97% foram detectados pelas equipes interdisciplinares do Mercado Livre, que utilizam tecnologias baseadas em inteligência artificial e machine learning para combater irregularidades.
+Essas ferramentas aprendem com as denúncias e exclusões, permitindo a mediação automática de conteúdos suspeitos. Na média, para cada denúncia recebida, o sistema da plataforma remove oito vezes mais anúncios irregulares.
+“O forte e contínuo investimento em tecnologia nos últimos anos resultou em um alto nível de acuracidade para detectar publicações infratoras de maneira automática e proativa, se refletindo em mais segurança para os nossos milhões de usuários”, diz Humberto Chiesi Filho, diretor jurídico do Mercado Livre.
+Hoje, o conjunto de tecnologias aplicado pela plataforma já é capaz de analisar, em menos de um segundo, mais de 5 mil variáveis, para detectar, pausar ou mesmo remover em tempo real anúncios que violem as regras da plataforma.
+Devido ao trabalho de informação e educação junto aos usuários, mais de 70% dos vendedores denunciados mudam de comportamento e não voltam a infringir as regras.
+No segundo semestre do ano passado, período analisado nesta edição, cerca de 3% dos anúncios moderados foram denunciados por autoridades ou usuários, estes que podem alertar a plataforma por meio do botão ‘denunciar’ presente em todos os anúncios.
+
+
+Bilionário do Google doa US$ 600 mi em ações após disparada
+A doação surge no momento em que a fortuna de Sergey Brin teve um incremento significativo, impulsionado pelo crescimento das ações da Alphabet.
+Sergey Brin, co-fundador do Google, doou ações da Alphabet no valor de aproximadamente US$ 600 milhões na semana passada, quando sua fortuna deu o maior salto em mais de dois anos.
+A doação, divulgada em uma demonstração de participações, não especifica quem recebeu as 5,2 milhões de ações, que podem ter ido para instituições de caridade ou fundos.
+O Google não respondeu a um pedido de comentário sobre o demonstrativo regulatório.
+As fortunas de Brin e do co-fundador Larry Page, juntas, aumentaram em US$ 18 bilhões na semana passada, o maior ganho desde fevereiro de 2021, em meio a um frenesi em torno da inteligência artificial que impulsionou as ações da Alphabet.
+Um dia antes da doação, a empresa californiana anunciou um mecanismo de busca mais intuitivo, e disse que está tornando seu chatbot baseado em IA, o Bard, mais amplamente disponível.
+O patrimônio de Brin agora é de cerca de US$ 101 bilhões, de acordo com o Bloomberg Billionaires Index. Sua fortuna, a nona maior do mundo, é composta em grande parte por ações da Alphabet. Ele vendeu mais de US$ 10 bilhões em ações desde a oferta pública inicial da empresa em 2004, segundo dados compilados pela Bloomberg.
+A doação segue uma transferência semelhante de Brin no final do ano passado, de cerca de 1 milhão de ações. Ele também usou parte de suas ações da Alphabet para montar uma nova organização sem fins lucrativos chamada Catalyst4, focado em saúde e mudança climática, embora os demostrativos indiquem que a maior parte de seu financiamento até agora vem de ações da Tesla, vendidas perto de seu pico no final de 2021.
+
+
+TikTok à prova: EUA faz teste legal com proibição regional do TikTok
+A partir de 2024, apenas o estado de Montana não poderá acessar o app; a  proibição servirá como um teste legal para um banimento nacional da plataforma chinesa
+Montana se tornou, nesta quarta-feira, 17, o primeiro estado americano a banir o TikTok, por meio de uma lei que entrará em vigor no ano que vem, à medida que aumenta o debate sobre o impacto e a segurança deste popular aplicativo de vídeos.
+A proibição se converteu em lei com a assinatura do governador Greg Gianforte, e servirá como um teste legal para um banimento nacional da plataforma chinesa, o que congressistas em Washington pedem cada vez mais.
+“O TikTok não pode operar dentro da jurisdição territorial de Montana”, diz uma cópia da lei recém-criada, publicada no site do estado. O banimento torna uma violação cada vez que "um usuário acessa o TikTok, é oferecida a ele a possibilidade de acessar o TikTok, ou é oferecida a ele a possibilidade de fazer o download do aplicativo".
+Cada violação será punida com uma multa diária de US$ 10.000. Pela lei, Apple e Google terão que retirar o TikTok de suas lojas de aplicativos.
+Líderes políticos estaduais "atropelaram a liberdade de expressão de centenas de milhares de cidadãos de Montana que usam o aplicativo para se expressar, para se informar e para tocar seus pequenos negócios, em nome de um sentimento antichinês", declarou o diretor de Políticas Públicas da sede de Montana da União de Liberdades Civis Americanas.
+A proibição entrará em vigor em 2024, mas será anulada se o TikTok for adquirido por uma empresa baseada em um país não designado pelos Estados Unidos como "um adversário estrangeiro", diz a lei.
+"O governador Gianforte assinou uma lei que viola os direitos da Primeira Emenda do povo de Montana ao proibir ilegalmente o TikTok", criticou uma porta-voz da empresa. “Queremos garantir que a população de Montana possa continuar usando o TikTok para se expressar, ganhar a vida e encontrar uma comunidade."
+O TikTok foi enfático ao manifestar que serão as cortes qeu irão decidir, em última instância, o caráter constitucional da proibição.
+
+
 Echo Dot 5: nova caixa de som inteligente chega ao Brasil; veja valor
 Amazon também anunciou versão mais barata da caixinha com Alexa, o Echo Pop
 A Amazon anunciou nesta quarta-feira, 17, o lançamento do seu novo smart speaker (caixa de som inteligente, em português) ligada ao assistente de voz Alexa no Brasil. Chamado de Echo Dot 5, o aparelho faz parte da quinta geração e foi anunciado em nível mundial em setembro de 2022.
@@ -163,6 +278,8 @@ Dito isso, considerando quanto o Google falou sobre IA nas últimas semanas, nã
 E afim de tranquilizar aqueles que não se afeiçoam por IA, considere que o Google cravava, há pouco tempo, precisamente no I/O de 2016, que a busca por voz através de assistentes virtuais seria o futuro da pesquisa e até dos smartphones. Amazon, Apple e outros gigantes embarcaram na onda e hoje pouco se fala no uso e penetração da tecnologia. Até se provar funcional, a SGE segue sempre com um pé no cemitério de ideias do Google.
 
 
+Boom de IA responde por todo ganho do S&P 500 em 2023, diz Société Générale
+O frenesi de investimentos em torno da inteligência artificial tem sido tão forte que, sem ele, o principal índice de ações dos EUA estaria em queda no ano
 A inteligência artificial é a tecnologia do momento. Investidores ávidos por exposição a IA puxaram as ações da Nvidia, que fabrica chips avançados, a um salto de 96% neste ano.
 Microsoft e Alphabet também se beneficiaram à medida que os gigantes de tecnologia correm para adicionar recursos de IA a seus produtos e serviços.
 As três ações estão entre as que mais contribuíram para o ganho de 7,6% do S&P 500 neste ano, até o último fechamento.
@@ -170,6 +287,8 @@ As três ações estão entre as que mais contribuíram para o ganho de 7,6% do 
 Para ganhar com o boom, os investidores devem comprar ações de crescimento defensivo mantidas nos principais fundos negociados em bolsa focados em IA, como Microsoft, Accenture e a empresa de software ServiceNow, disse ele.
 
 
+Musk confirma Linda Yaccarino como nova CEO do Twitter
+A informação foi divulgada na tarde desta sexta-feira, 12, pelo próprio empresário
 O biolionário Elon Musk confirmou que Linda Yaccarino será a nova presidente executiva do Twitter. A informação foi divulgada na tarde desta sexta-feira, 12, pelo próprio empresário. Linda é ex-presidente da NBCUniversal, conglomerado de mídia dos Estados Unidos.
 "Tenho o prazer de dar as boas-vindas a Linda Yaccarino como a nova CEO do Twitter! @LindaYacc focará principalmente em operações de negócios, enquanto eu me concentro em design de produtos e novas tecnologias. Ansioso para trabalhar com Linda para transformar esta plataforma em X, o aplicativo de tudo"
 I am excited to welcome Linda Yaccarino as the new CEO of Twitter!@LindaYacc will focus primarily on business operations, while I focus on product design & new technology.
@@ -187,6 +306,8 @@ LEIA TAMBÉM:
 
 
 
+Recessão nos EUA pode acabar com festa das "techs", diz BofA
+O Nasdaq 100, com forte peso de empresas tech, acumula alta de 22% neste ano, mas o bom momento pode não se sustentar
 Um longo período de desaceleração econômica nos Estados Unidos pode abalar ações de tecnologia em um momento em que o setor atrai muito dinheiro de investidores, de acordo com estrategistas do Bank of America.
 Uma equipe liderada por Michael Hartnett disse que uma recessão tende a causar rachaduras nos setores de crédito e tecnologia, assim como aconteceu em 2008, escreveram os estrategistas em nota nesta sexta-feira, 12.
 Investidores apostaram US$ 3,8 bilhões em ações de tecnologia na semana até 10 de maio, a maior entrada desde dezembro de 2021, segundo o BofA, que cita dados da EPFR Global. Por outro lado, US$ 2,1 bilhões foram retirados de ações do setor financeiro, o maior resgate desde maio de 2022, em meio à turbulência entre bancos regionais nos EUA.
@@ -197,6 +318,8 @@ No entanto, Hartnett disse que números negativos do emprego seriam um sinal par
 Entre outros fluxos de destaque na última semana, o ritmo de entradas para posições em dinheiro diminuiu, com US$ 13,8 bilhões alocados nessa classe de ativos. Enquanto isso, os títulos do Tesouro dos EUA registraram a maior entrada em seis semanas, de US$ 6,3 bilhões. Fundos de ações dos EUA e da Europa tiveram resgates de US$ 2,7 bilhões e US$ 2,2 bilhões, respectivamente.
 
 
+Novo CEO do Twitter: Elon Musk anuncia saída em dois meses
+Nome da substituta ainda não foi anunciado; veja qual cargo o bilionário deve assumir
 O bilionário Elon Musk, atual CEO da Tesla, Twitter e SpaceX, anunciou nesta quinta-feira, 11, que está de saída do Twitter.
 De acordo com o magnata, ele deixará o cargo de CEO em, no máximo, dois meses e será substituído por uma mulher. Mas está enganado quem pensa que ele vai abandonar a rede social do passarinho de vez: Musk também anunciou que vai transicionar para dois novos cargos.
 "Estou animado para anunciar que contratei um novo CEO para o X/Twitter. Ela vai começar em mais ou menos seis semanas", postou na rede social. "Minha função fará a transição para ser presidente executivo e CTO [diretor de tecnologia, em tradução do inglês], supervisionando produtos, software e sysops".
@@ -211,94 +334,5 @@ Musk usou conta anônima no Twitter para zombar de executivos do mercado cripto,
 Uma das principais insatisfações está relacionada à compra do selo de verificação, imposto pelo bilionário, e o relaxamento da moderação de conteúdo, permitindo o retorno de muitos usuários banidos por postagens que os proprietários anteriores da plataforma diziam incitar ódio ou desinformação.
 Recentemente, Musk criou uma nova empresa que se fundirá ao Twitter, a X Corp. Por isso a menção.
 *Mais informações em instantes
-
-
-A Shein, em um esforço para se aproximar dos vendedores brasileiros, acabou de anunciar uma parceria com a Bling, da Locaweb, para integrar o ERP à sua plataforma de vendas online. Esta é a primeira parceria que a companhia, sediada em Singapura, faz com um player de gestão recursos empresariais (ERP) brasileiro.
-Direcionada aos vendedores que atuam integram o marketplace, a integração oferece uma condição simples: o usuário deve possuir uma conta de vendedor na Shein para conectá-la ao Bling. Anteriormente, as vendas no marketplace da Shein só eram possíveis mediante solicitação direta à empresa, mas agora os vendedores podem gerenciar suas vendas de forma centralizada.
-O diretor do Bling Marcelo Navarini acredita que essa parceria não apenas engajará os clientes já conectados à plataforma, mas também atrairá novos usuários, uma vez que o processo de venda no e-commerce da varejista global será otimizado.
-A integração está disponível para os clientes do Bling com assinatura a partir do plano Cobalto, que além de outras vantagens, oferece serviços como emissão de nota fiscal eletrônica (NF-e) e de serviço (NFS-e), integrações com diversos e-commerces e marketplaces, impressão de etiquetas, integração logística e campos customizados
-De acordo com a Shein, os números indicam um grande mercado potencial no Brasil. A empresa registrou um crescimento de 300% no país, alcançando um faturamento local de R$ 8 bilhões.
-Vale ressaltar que a parceria com o Bling vem apenas três semanas após o anúncio da Shein de investir "inicialmente" R$ 750 milhões para fornecer tecnologia e treinamento a fabricantes brasileiros, além de abrir seu marketplace para vendedores locais. Essa iniciativa permite que os consumidores comprem produtos vendidos por brasileiros, em vez de adquiri-los diretamente da China.
-Curiosamente, o anúncio da parceria entre Bling e Shein ocorre um dia após a Locaweb receber uma concorrência em seu segmento de e-commerce. A RD Station anunciou uma parceria com a Shopify, uma das principais plataformas de gestão de lojas online, desafiando as soluções oferecidas pela VTEX e Tray, pertencentes à Locaweb.
-
-
-A Starlink, assinatura de internet via satélite da Starlink, liderada pelo bilionário Elon Musk, anunciou uma redução significativa nos preços de seus serviços no Brasil.
-Desde quarta-feira, 10, os usuários terão um desconto de 20% na mensalidade, que passará de R$ 230 para R$ 184.
-Além disso, a empresa oferece um desconto de 50% no valor do equipamento necessário para a conexão  (contendo antena, roteador, cabos e base), que agora custará R$ 1 mil em vez dos R$ 2 mil anteriores.
-A redução de preços da Starlink ocorre em meio a uma crescente competição no segmento de internet via satélite. No mês passado, a ViaSat lançou ao espaço o ViaSat-3 Américas, o primeiro de três satélites projetados para cobrir toda a América, Europa, Oriente Médio, África e Ásia-Pacífico. Com tecnologia de banda Ka de ultra capacidade, a rede ViaSat-3 busca desafiar a supremacia da Starlink.
-Apesar do número impressionante de 3,7 mil satélites em órbita pertencerem à Starlink, a ViaSat aposta como diferencial a capacidade de oferecer cobertura global. Seus satélites geoestacionários estão posicionados a cerca de 35 mil km de altitude, permitindo abranger vastas áreas, incluindo rotas aéreas e marítimas essenciais. Em contrapartida, a SpaceX utiliza pequenos satélites em órbita baixa terrestre, a aproximadamente 500 km de altitude, mas em grande quantidade, proporcionando a mesma funcionalidade.
-Outro concorrente de peso é a Amazon, que desenvolve no momento o Projeto Kuiper. Embora ainda não haja uma data precisa para o lançamento de seus satélites, a Amazon planeja iniciar a produção em massa das antenas necessárias para a comunicação com os mesmos em 2023. A previsão é de que a conexão de banda larga seja fornecida para alguns clientes até o final de 2024.
-
-
-Desde que os smartphones adentraram no cotidiano do brasileiro na década passada, o número de aparelhos disparou. Em meados de 2016, já haviam mais dispositivos em funcionamento do que habitantes.
-Quando se olha para o cenário global, dentre 193 países, atualmente o Brasil é o 5º país com a maior quantidade de usuários de smartphones no ranking mundial.
-Atualmente o país possui mais de 118 milhões de usuários de celulares ativos, e fica atrás somente da Indonésia, Estados Unidos, Índia e China.
-É o que revela um levantamento feito pela plataforma de descontos CupomValido, com dados da The World Bank e Statista, sobre os smartphones no mundo.
-Segundo o ranking, é considerado um usuário de smartphone ativo qualquer pessoa que usa um smartphone pelo menos uma vez por mês.
-A China é o primeiro país do ranking, com mais de 953 milhões de usuários de smartphones. E a Índia segue em segundo lugar com 492 milhões, valor quase a metade da China.
-Países com maior número de smartphones (The World Bank, CupomValido.com.br, Statista/Reprodução)
-Os números sobre a quantidade de smartphones também podem ser usados para mensurar o quão avançada é a economia de tal país. Nesse caso, a métrica de penetração de celular com valores acima de 70% são considerados como países de economia avançada.
-Neste caso, o Brasil não figura nem estre os top 10 do ranking. Com 55,4%, o país fica na 15ª posição. Evidenciando que apesar do número de aparelhos, nem todos os brasileiros possuem um - quase a metade da população brasileira ainda não possui um celular.
-Os Estados Unidos é o primeiro no ranking, onde quase a maioria da população (82,2%) possui um smartphone. Seguido pelo Reino Unido (79,8%), França (78,8%) e Alemanha (78,8%).
-- (The World Bank, CupomValido.com.br, Statista/Reprodução)
-
-
-Musk anuncia que chamadas de áudio e vídeo chegarão ao Twitter em breve
-Musk acrescentou que o Twitter começará amanhã a criptografar as mensagens diretas na plataforma, para proteger a privacidade dos usuários
-O dono do Twitter, Elon Musk, anunciou nesta terça-feira, 9, que poderão ser feitas, em breve, chamadas de áudio e vídeo na plataforma. "Para que você possa falar com pessoas de todo o mundo sem dar a elas seu número de telefone", tuitou Musk.
-Em comentário posterior publicado no Twitter, Musk afirmou que o aplicativo de mensagens WhatsApp, operado pela Meta, não é confiável. Uma função de mensagens no Twitter poderia competir com a série de serviços gratuitos oferecidos por, entre outros, Messenger, Signal, Telegram e WhatsApp.
-Musk acrescentou que o Twitter começará amanhã a criptografar as mensagens diretas na plataforma, para proteger a privacidade dos usuários.
-Desde que comprou o Twitter, no ano passado, Musk implementou uma série de mudanças de forma aparentemente caótica, que chegou a irritar os usuários.
-
-
-Um acordo importante para o setor de logística via drones será assinado nesta quarta-feira, 10, entre a Thales, líder global em alta tecnologia, e a Speedbird Aero, startup que desenvolve drones, a ideia das duas companhias é criar sistemas avançados de gerenciamento de tráfego aéreo de drones, que serão utilizados para impulsionar um novo estágio em serviços de delivery no Brasil. A parceria será oficializada nesta quarta-feira, 10 de maio, durante a DroneShow, a feira de drones que está acontecendo em São Paulo (SP).
-A colaboração entre as duas empresas envolverá equipes de engenharia da Thales no Brasil, Estados Unidos e França, que trabalharão em conjunto para desenvolver operações Beyond Visual Line-of-Sight (BVLOS), ou seja, operações em que o piloto remoto não tem visibilidade direta do drone. Nos próximos três anos, as empresas concentrarão seus esforços em estudos de viabilidade econômica de tecnologias, infraestrutura e modelos de negócios para projetos-piloto em cidades como Rio de Janeiro, Salvador, São Paulo, além de possíveis expansões para outras localidades ao longo dos projetos.
-A Thales, reconhecido player tecnológico por trás de mais de 80% do tráfego aéreo do mundo, tem investido no desenvolvimento e integração de sistemas que permitem o controle eficiente do espaço aéreo para plataformas ATM e UTM. A empresa já possui projetos em andamento na América Latina, Estados Unidos, Europa e Oceania, e agora, com o apoio da Speedbird Aero, intensificará seus planos para o Brasil.
-
-Luciano Macaferri, diretor geral da Thales Brasil, destaca: "Estamos entusiasmados com as oportunidades de negócios que o mercado de drones oferece, e a parceria com a Speedbird fortalece ainda mais nossos planos de expansão no Brasil".
-A Speedbird Aero, por sua vez, já é reconhecida como um pioneira do mercado brasileiro. Recentemente, recebeu um aporte de R$ 35 milhões, liderado pelo fundo americano Bela Juju Ventures, que deu mais tração à novata fundada em Franca (SP), em 2018.
-A empresa também é a primeira a obter autorização da Agência Nacional de Aviação Civil (ANAC) para realizar entregas comerciais por meio de drones e já possui contratos com grandes empresas nacionais, como iFood, Grupo Pardini, Natura e Claro. Além do Brasil, a Speedbird Aero já opera em Israel e nos Estados Unidos, e recentemente se tornou a primeira empresa autorizada a voar a partir de um aeroporto internacional ativo em Eilat, Israel. Além disso, realizou as primeiras entregas de material biológico BVLOS em uma distância de 25 km entre hospitais no norte do país.
-Com essa parceria estratégica, o CEO da SpeedBird Manoel Coelho acredita que "a parceria estratégica com a Thales trará a tecnologia e a expertise necessárias no espaço ATM/UTM para apoiar e expandir as operações comerciais diárias da Speedbird BVLOS no Brasil e em outros países. Será um grande passo na construção de operações de entrega de drones comerciais seguras, escaláveis e sustentáveis".
-
-
-As declarações e movimentações de executivos no Google deixam claro que a empresa está incomodada com o sucesso da OpenAI e o sui generis ChatGPT.
-A medida que a ferramenta financiada pela Microsoft ganha popularidade, ela também mostra que pode ser o futuro para um n número de funções hoje delegadas aos serviços gestados pela holding Alphabet. E se há um momento para mostrar força e a direção dos negócios, ainda que tenha alegado recentemente que não está pronta para competir, esse momento é a conferência anual I/O, realizada nesta quarta-feira, 10, e destinada à mostrar suas inovações mais recentes.
-É um ritual que acontece há 15 anos – mas, desta vez, todos esperam mais. O CEO Sundar Pichai também deve esperar um clima mais denso frente a uma plateia que acompanhou recentemente a restruturação da empresa durante um corte de 12 mil funcionários em janeiro, alguns regalias a menos e a pressão sobre os times para desenvolver rapidamente parte do que será apresentado hoje.
-O evento começará 14h (horário de Brasília). As palestras e lançamentos poderão ser acompanhados ao vivo. Veja a seguir o que esperar da conferência.
-Certamente a tecnologia da vez permeará todos os anúncios do Google. A sigla será usada mesmo quando o assunto for hardware.  De acordo com o jornal The New York Times, o Bard, nome dado a IA do Google, deverá ser embarcada em mais ferramentas, assim como fez a Microsoft no Bing e Pacote Office.
-Na lista de possíveis novidades também entram ferramenta para geração e edição de imagens baseadas em IA; atualizações no Maps (mapas) e o Lens (buscas a partir de fotos). Contudo, inda não se sabe o que poderá ter de novidades nas aplicações, mas a expectativa sobre as ferramentas surgem em razão de no ano passado a empresa ter usado o Google I/O para demonstrar avanços nessas duas áreas.
-Não é tão comum que o Google lance novos celulares da linha Pixel durante ao Google I/O, mas não dá para descartar uma mudança de planos ainda mais quando a chance de dizer que ele também terá recursos voltados à IA.
-O perfil indiano da empresa no Twitter publicou uma imagem com a sombra de um telefone e parte de sua câmera com a data de 11/05, um dia depois do evento. Isso deu mais força aos rumores de que o Google pode apresentar novos smartphones.
-Rumores de sites especializados apontam também que será uma versão intermediária dos celulares da marca chamada Pixel 7a, com tela de 6,1 polegadas, taxa de atualização de 90 Hz, câmera traseira de 64 megapixels e reformulação do processador Tensor G2.
- O Google colocou no mercado a versão beta do Android 14, com previsão de lançar oficialmente para mais gente em agosto. 
-A empresa deve separar uma parte do evento para destacar funcionalidades do sistema. De acordo com o site americano TechRadar, o Google deve anunciar os seguintes novos recursos: suporte para comunicações via satélit; melhoria na capacidade de lidar com chaves de acesso para aumentar a segurança do celular; maior eficiência alinha à maior durabilidade da bateria e aprimoramento de recursos de acessibilidade.
-
-
-Oppo lidera vendas de smartphones na China; Huawei e Samsung ficam de fora do top 5
-A empresa liderou a lista de vendas graças ao apoio de sua subsidiária OnePlus, uma marca de smartphones de alta qualidade, popular na Europa
-A Oppo é uma das quatro grandes fabricantes de smartphones da China, e lidera a lista das cinco marcas com maior número de vendas na China, seguida de Apple, Vivo, Honor e Xiaomi. Samsung e outras marcas comuns no Brasil foram classificadas como “outras”. Os dados foram divulgados pela International Data Corporation (IDC, na sigla inglesa).
-Desde a adesão da China à tecnologia 4G em 2015, a Oppo se expandiu rapidamente. A empresa liderou a lista de vendas graças ao apoio de sua subsidiária OnePlus, uma marca de smartphones de alta qualidade que é muito popular na Europa, embora não seja muito conhecida no Brasil.
-No primeiro trimestre de 2023, o mercado de smartphones da China teve um volume de envio de cerca de 65,44 milhões de unidades, o que representa uma queda de 11,8% em comparação com o mesmo período do ano anterior.
-O declínio da Samsung no mercado chinês começou com o escândalo das baterias do Note7 em 2016. Naquele ano, ocorreram vários casos de explosões de bateria em todo o mundo, e a Samsung não conseguiu dar explicações e respostas adequadas aos consumidores chineses, o que causou uma crise de confiança na marca. Em 2019, a Samsung fechou sua última fábrica de telefones celulares na China, e sua participação de mercado era de apenas cerca de 1%, em comparação com os 22,2% de 2015.
-Após as sanções impostas pelos EUA à Huawei em 2019, as vendas de smartphones da empresa cresceram rapidamente no curto prazo devido ao apoio da população chinesa à marca. Em 2020, a Huawei teve participação de mercado de 38,3% na China. No entanto, as restrições na cadeia de suprimentos decorrentes das sanções dos EUA afetaram severamente sua produção e vendas.
-A Honor, que já foi uma subsidiária da Huawei, foi vendida em 2020 para a empresa de tecnologia inteligente Zhixin New Information Technology Co., Ltd., controlada pelo governo de Shenzhen. A venda aconteceu para evitar ser afetada pelas sanções dos EUA e para arrecadar mais dinheiro para a Huawei para a pesquisa e desenvolvimento de tecnologia, especialmente no campo de chips. Segundo a agência de notícias Reuters, o preço da transação pode chegar a US$ 15 bilhões.
-Por: Zhuohua Liang
-Tradução: Mei Zhen Li
-
-
-App GPTZero busca combater plágio em escolas e mídia online
-A plataforma consegue fazer a distinção de informações erradas gerada em textos criados por IA
-Jornalistas, roteiristas e professores universitários estão entre os crescentes grupos preocupados em perder seus meios de subsistência para programas de inteligência artificial como o ChatGPT, que pode produzir textos mais rápidos e, possivelmente, melhores que os humanos. Mas um empreendedor aposta em uma tecnologia para facilitar a distinção entre o texto escrito por pessoas e aquele composto por uma máquina.
-Edward Tian, um estudante de 22 anos da Universidade de Princeton que estuda ciência da computação e jornalismo, desenvolveu um aplicativo chamado GPTZero para impedir o uso indevido do chatbot ChatGPT nas salas de aula. O aplicativo conseguiu 1,2 milhão de usuários registrados desde janeiro.
-Ele agora está lançando um programa, chamado Origin, com o objetivo de “salvar o jornalismo” ao distinguir a desinformação gerada por IA dos fatos na mídia online. Tian conseguiu US$ 3,5 milhões em financiamento coliderado pela Uncork Capital e Neo Capital, com investidores de tecnologia, entre eles Emad Mostaque, diretor-presidente da Stability AI, e Jack Altman.
-O GPTZero analisa a aleatoriedade do texto, conhecida como perplexidade, e a uniformidade dessa aleatoriedade dentro do texto para identificar quando a IA está sendo usada. A ferramenta tem uma taxa de precisão de 99% para textos escritos por humanos e de 85% para textos de IA, de acordo com a empresa.
-A equipe de dez pessoas agora quer empoderar o jornalismo e conversa com grandes organizações de mídia, como a BBC, e executivos do setor, incluindo o ex-CEO do "The New York Times" Mark Thompson, para discutir parcerias para detecção e análise de IA. A startup também vê sua tecnologia para uso em áreas de confiança e segurança, governo, direitos autorais, finanças, legislação e muito mais.
-“Acreditamos que podemos reunir as pessoas mais inteligentes para trabalhar na detecção de IA em uma sala”, disse Tian. “O campo de detecção é muito novo, e acreditamos que merece mais atenção e apoio.”
-A OpenAI, que criou o ChatGPT, lançou um classificador de texto de inteligência artificial para detectar conteúdo gerado por máquina, mas que está longe de ser infalível. A ferramenta identifica corretamente apenas 26% do texto escrito por IA como “provavelmente escrito por IA”, enquanto classifica incorretamente o texto escrito por humanos como gerado por IA em 9% das vezes. O classificador também funciona “significativamente pior” em outros idiomas além do inglês e “não é confiável” em códigos e textos mais curtos. Para entradas muito diferentes do texto no conjunto de treinamento da ferramenta, o classificador também pode estar errado, de acordo com a OpenAI.
-“Nosso classificador tem uma série de limitações importantes”, reconhece a empresa no site. “Não deve ser usado como uma ferramenta primária de tomada de decisão, mas sim como um complemento a outros métodos de determinação da fonte de um texto.”
-A falta de confiabilidade da ferramenta de detecção representa um dilema para educadores. Mesmo que um professor encontre um artigo suspeito de um aluno sinalizado com 70% de probabilidade de ser gerado por IA, desde que a precisão dessas ferramentas de detecção não seja de 100%, é muito difícil para os professores tomarem uma ação decisiva.
-“Acho que não sabemos o que fazer com uma bandeira que indica um provável problema”, disse Jack Cushman, diretor do Harvard Library Innovative Lab, que estuda tópicos como o impacto da internet. “Tudo o que você pode fazer nesse ponto é conversar com um aluno e dizer que pode ter cometido desonestidade acadêmica de acordo com essa ferramenta.”
-Enquanto isso, a definição de plágio também tem evoluído com o surgimento da IA. “Isso vai desafiar toda a noção de honestidade acadêmica porque, às vezes, ter uma ferramenta que recomenda uma frase ou duas, ou ajuda com citações, será legítimo da mesma forma que usar uma calculadora para fazer trabalhos matemáticos”, disse. “A melhor resposta é que você não deve deixar que ela escreva tudo.”
-Nick Loui, cofundador e CEO da PeakMetrics, startup que ajuda governos e grandes empresas a combater a desinformação, disse que seus clientes não estão tão preocupados com a ameaça de textos gerados por IA, porque o potencial de dano é menor do que a proliferação dos chamados vídeos “deepfake”, por exemplo, onde ocorreram mais casos maliciosos de conteúdo manipulado.
 
 
