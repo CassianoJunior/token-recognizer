@@ -5,7 +5,7 @@ text: (paragraph NEWLINE)+;
 paragraph: ((WORD | PONTUATION)+ | NUM | ACRONYM | OWN_NAME | MONEY | CITATION | DESCRIPTION | PERCENT | TWITTER_ACCOUNT
             | ORDINARY_NUMER)+;
 
-PONTUATION: '.' | ',' | '!' | '?' | ':' | ';' | '-' | '[' | ']' | '{' | '}' | '"' | '\'';
+PONTUATION: '.' | ',' | '!' | '?' | ':' | ';' | '-' | '[' | ']' | '{' | '}' | '"' | '\'' | '(' | ')';
 
 ACRONYM: [a-zA-Z][A-Z]+;
 
@@ -20,9 +20,9 @@ NUM: (DIGIT(DIGIT)* | DIGIT','DIGIT | DIGIT'.'DIGIT | DIGIT'.'DIGIT','DIGIT | DI
 
 DIGIT: [0-9]+;
 
-CITATION: '"'(WORD+)'"';
+CITATION: '"'((WORD | NUM) (' ')*)+'"';
 
-DESCRIPTION: '('(WORD+)')';
+DESCRIPTION: '('((WORD | NUM) (' ')*)+')';
 
 PERCENT: NUM '%';
 

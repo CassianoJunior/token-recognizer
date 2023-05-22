@@ -1,3 +1,16 @@
+4 dicas para aproveitar ao máximo das ferramentas do WhatsApp
+Muitos desconhecem alguns recursos bastante úteis do WhatsApp. Há truques, por exemplo, que podem melhorar ainda mais a utilização e garantir a segurança
+O WhatsApp, pertencente à Meta (empresa que também é dona do Instagram e Facebook), é um aplicativo que permite troca de mensagens de texto e voz, criação de conversas em grupo, envio de fotos, vídeos, documentos, GIFs, emojis, stickers, além de ligações de áudio e de vídeo.
+A ferramenta está disponível para smartphones, computadores e web. Para utilizá-lo, é necessário acessar a loja de aplicativos no celular e baixá-lo. O cadastro é feito a partir de um número de telefone.
+É um dos aplicativos para troca de mensagens mais populares no Brasil. Mas, apesar disso,e. Confira alguns deles!
+Se você deseja que os seus contatos não vejam a última vez que você entrou no WhatsApp, é recomendado desativar o recurso “visto por último”. Para isso, abra o aplicativo, toque no menu de três pontos, que está no canto superior da tela.
+Ao desativar essa opção na sua conta, você também não poderá ver quando os seus contatos visualizaram o app pela última vez.
+Dois tiques azuis (✓✓) juntos no WhatsApp significam que a pessoa leu a mensagem. Para que outra pessoa não saiba quando você visualizou ou leu a mensagem recebida, basta desativar esse recurso.
+O WhatsApp permite formatar o texto das mensagens, isto é, colocá-los em negrito, itálico e riscado.
+No WhatsApp é possível silenciar as mensagens de conversas e grupos. Assim, você recebe a mensagem, mas o celular não vibra ou emite sons com o recebimento dela.
+Com o silenciamento, você só será notificado se alguém te mencionar ou responder diretamente a sua mensagem.
+
+
 Especialistas criticam proibição do TikTok em Montana, nos EUA
 O principal ponto levantado é a dificuldade de proibir o funcionamento do app em apenas um único estado
 A proibição total do TikTok no estado americano de Montana caminha para uma batalha judicial, enquanto especialistas questionam se a medida é sequer tecnicamente viável.
@@ -246,6 +259,8 @@ O deputado também destacou como o projeto atual cria responsabilidade ao "níve
 Já Miriam Wimmer, da ANPD, defendeu ampliar os direitos sobre a privacidade por meio do PL. Em seu momento de fala, pediu para que o regramento crie uma colaboração com outros já existentes. "Nos temos uma tradição no Brasil pela construção de leis multisetoriais. No caso atual, temos um desafio interessante de criar esse diálogo coeso".
 
 
+Ex-executivo da ByteDance, dona do TikTok, acusa empresa de práticas ilegais
+Segundo o processo apresentado em um tribunal de San Francisco em 1º de maio, executivo descobriu pouco depois de ser contratado na Califórnia em 2017 que a ByteDance estava "roubando" vídeos publicados em redes concorrentes
 Um ex-executivo da ByteDance entrou com um processo nos Estados Unidos contra a empresa, controladora do TikTok, acusando-a de tê-lo demitido por ter alertado sobre supostas práticas ilegais.
 Muitos legisladores republicanos querem proibir o TikTok nos Estados Unidos. Eles afirmam que a plataforma permite que Pequim colete dados dos usuários sem o consentimento deles e influencie sua opinião, o que o aplicativo nega.
 Segundo o processo apresentado em um tribunal de San Francisco em 1º de maio, Yintao Yu descobriu pouco depois de ser contratado na Califórnia em 2017 que a ByteDance estava "roubando" vídeos publicados em redes concorrentes, como o Instagram e o Snapchat, para postá-los em sua própria plataforma.
@@ -287,8 +302,6 @@ As três ações estão entre as que mais contribuíram para o ganho de 7,6% do 
 Para ganhar com o boom, os investidores devem comprar ações de crescimento defensivo mantidas nos principais fundos negociados em bolsa focados em IA, como Microsoft, Accenture e a empresa de software ServiceNow, disse ele.
 
 
-Musk confirma Linda Yaccarino como nova CEO do Twitter
-A informação foi divulgada na tarde desta sexta-feira, 12, pelo próprio empresário
 O biolionário Elon Musk confirmou que Linda Yaccarino será a nova presidente executiva do Twitter. A informação foi divulgada na tarde desta sexta-feira, 12, pelo próprio empresário. Linda é ex-presidente da NBCUniversal, conglomerado de mídia dos Estados Unidos.
 "Tenho o prazer de dar as boas-vindas a Linda Yaccarino como a nova CEO do Twitter! @LindaYacc focará principalmente em operações de negócios, enquanto eu me concentro em design de produtos e novas tecnologias. Ansioso para trabalhar com Linda para transformar esta plataforma em X, o aplicativo de tudo"
 I am excited to welcome Linda Yaccarino as the new CEO of Twitter!@LindaYacc will focus primarily on business operations, while I focus on product design & new technology.
@@ -316,23 +329,5 @@ Hartnett, que no ano passado acertou ao prever que o receio de uma recessão pro
 É uma visão semelhante à avaliação de estrategistas da Bloomberg Intelligence, que veem espaço para uma bolha em ações de tecnologia, mídia e telecomunicações desinflar à medida que “enfrentam a realidade de taxas de juro mais altas por mais tempo e uma perspectiva de lucros moderada”.
 No entanto, Hartnett disse que números negativos do emprego seriam um sinal para a compra de ações cíclicas ligadas à economia – como de empresas de tecnologia – em 2023. O mercado de trabalho americano tem se mostrado resiliente, com aumento das contratações e dos salários em abril.
 Entre outros fluxos de destaque na última semana, o ritmo de entradas para posições em dinheiro diminuiu, com US$ 13,8 bilhões alocados nessa classe de ativos. Enquanto isso, os títulos do Tesouro dos EUA registraram a maior entrada em seis semanas, de US$ 6,3 bilhões. Fundos de ações dos EUA e da Europa tiveram resgates de US$ 2,7 bilhões e US$ 2,2 bilhões, respectivamente.
-
-
-Novo CEO do Twitter: Elon Musk anuncia saída em dois meses
-Nome da substituta ainda não foi anunciado; veja qual cargo o bilionário deve assumir
-O bilionário Elon Musk, atual CEO da Tesla, Twitter e SpaceX, anunciou nesta quinta-feira, 11, que está de saída do Twitter.
-De acordo com o magnata, ele deixará o cargo de CEO em, no máximo, dois meses e será substituído por uma mulher. Mas está enganado quem pensa que ele vai abandonar a rede social do passarinho de vez: Musk também anunciou que vai transicionar para dois novos cargos.
-"Estou animado para anunciar que contratei um novo CEO para o X/Twitter. Ela vai começar em mais ou menos seis semanas", postou na rede social. "Minha função fará a transição para ser presidente executivo e CTO [diretor de tecnologia, em tradução do inglês], supervisionando produtos, software e sysops".
-Excited to announce that I’ve hired a new CEO for X/Twitter. She will be starting in ~6 weeks!
-My role will transition to being exec chair & CTO, overseeing product, software & sysops.
-— Elon Musk (@elonmusk) May 11, 2023
-
-Após o anúncio de Musk, as ações da Tesla subiram 2,4%. O magnata já havia insinuado que não queria ser CEO do Twitter, mas não tinha feito nenhum anúncio até o momento.
-Desde que assumiu o controle do Twitter, no final de outubro de 2022, a polêmica gestão de Musk da rede social gerou uma crescente onda de usuários insatisfeitos que estão testando outras plataformas.
-As mudanças que já ocorreram relacionadas à plataforma — desde demissões, nova moderação à queda das verificações de contas públicas e originais — deixaram boa parte dos usuários insatisfeitos.
-Musk usou conta anônima no Twitter para zombar de executivos do mercado cripto, anunciou uma tentativa de processo da Microsoft por uso de dados da rede social para treinamento de inteligência artificial, tentou uma nova política de moderação de conteúdos mais voltada à "liberdade de expressão", entre outros.
-Uma das principais insatisfações está relacionada à compra do selo de verificação, imposto pelo bilionário, e o relaxamento da moderação de conteúdo, permitindo o retorno de muitos usuários banidos por postagens que os proprietários anteriores da plataforma diziam incitar ódio ou desinformação.
-Recentemente, Musk criou uma nova empresa que se fundirá ao Twitter, a X Corp. Por isso a menção.
-*Mais informações em instantes
 
 

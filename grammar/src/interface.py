@@ -30,8 +30,11 @@ def showTokens():
     return sg.Window("showTokens", layout=layout, finalize=True)
 
 def openTxtArquive(nameArquive):
-    data = FileStream(f'./scraper/{nameArquive}', encoding='utf-8')
-    return data
+    try:
+        data = FileStream(f'./scraper/{nameArquive}', encoding='ansi')
+        return data
+    except FileNotFoundError:
+        sg.popup('Arquivo inexistente')
 
 
 
@@ -45,18 +48,19 @@ while True:
     if window == initialScreen and event == "Visualizar Arquivo":
         data = openTxtArquive(values["textArquive"])
         showNewsScreen = showNews()
-        print(data)
+        print(str(data).encode('ansi').decode('utf-8'))
         initialScreen.hide()
 
     if window == initialScreen and event == "Extrair Tokens":
         data = openTxtArquive(values["textArquive"])
         lexer = TextLexer(data)
         showTokensScreen = showTokens()
+        tokens = open("tokens.txt", "w")
         for tok in lexer.getAllTokens():
-            if(tok.text == '\n'):
-                print("Token: breakLine\t\t\t\t", f"token type: {tok.type}")
-            else: 
-                print(f"Token: {tok.text}\t\t\t\t", f"token type: {tok.type}")
+            try:
+                print(f"Token: {(tok.text).encode('ansi').decode('utf-8')}\t\t\t\ttoken type: {tok.type}")
+            except UnicodeDecodeError:
+                print(f"Token {tok.text} não reconhecido")
         initialScreen.hide()
         
     if window == showNewsScreen and event == "Voltar":
