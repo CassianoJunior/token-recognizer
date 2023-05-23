@@ -31,7 +31,7 @@ def showTokens():
 
 def openTxtArquive(nameArquive):
     try:
-        data = FileStream(f'./scraper/{nameArquive}', encoding='ansi')
+        data = FileStream(f'./scraperNews/{nameArquive}', encoding='ansi')
         return data
     except FileNotFoundError:
         sg.popup('Arquivo inexistente')
@@ -55,10 +55,13 @@ while True:
         data = openTxtArquive(values["textArquive"])
         lexer = TextLexer(data)
         showTokensScreen = showTokens()
-        tokens = open("tokens.txt", "w")
         for tok in lexer.getAllTokens():
             try:
-                print(f"Token: {(tok.text).encode('ansi').decode('utf-8')}\t\t\t\ttoken type: {tok.type}")
+                #print(f"Token: {(tok.text).encode('ansi').decode('utf-8')}\t\t\t\ttoken type: {tok.type}")
+                with open('nomesTecnologia.txt', 'r', encoding = "utf-8") as file:
+                    for nameTecnology in file:
+                        if nameTecnology.rstrip() == str(tok.text).upper():
+                            print(f"token referente à tecnologia encontrado!\nToken presente na notícia: {tok.text}\nToken presente na lista de nomes: {nameTecnology.rstrip()}\n\n")
             except UnicodeDecodeError:
                 print(f"Token {tok.text} não reconhecido")
         initialScreen.hide()

@@ -4,7 +4,7 @@ from gen.TextParser import TextParser
 import PySimpleGUI as sg
 
 if __name__ == '__main__':
-  #dados = FileStream('./scraper/news.txt', encoding='utf-8')
+  #dados = FileStream('./scraperNews/news.txt', encoding='utf-8')
   dados = InputStream("Gerando uma nova frase (estou fazendo um teste), US$ 20,00.\n")
   lexer = TextLexer(dados)
   for tok in lexer.getAllTokens():
