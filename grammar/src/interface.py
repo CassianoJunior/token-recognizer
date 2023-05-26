@@ -1,14 +1,11 @@
 import PySimpleGUI as sg
 import antlr4
-from generated import TextLexer
 import os
+import importlib
 
-def getTokenNameById(id: int):
-  # Get the directory where this script is located
-  scriptDir = os.path.dirname(os.path.abspath(__file__))
-
+def getTokenNameById(id: int, folderPath: str):
   # Construct the path to the Text.tokens file relative to the script directory
-  path = os.path.join(scriptDir, 'generated', 'Text.tokens')
+  path = os.path.join(folderPath, 'Text.tokens')
 
   with open(path, 'r') as file:
     for line in file:
@@ -18,8 +15,10 @@ def getTokenNameById(id: int):
 
 if __name__ == '__main__':
   layout = [
+    [sg.Text('Select a path to AntLR generated files:')],
+    [sg.Input(key=0), sg.FolderBrowse()],
     [sg.Text('Select a file to analyze:')],
-    [sg.Input(), sg.FileBrowse()],
+    [sg.Input(key=1), sg.FileBrowse()],
     [sg.OK(), sg.Cancel()],
     [sg.Text('File content:')],
     [sg.Output(size=(50, 8), key='_FILE_CONTENT_')],
@@ -27,7 +26,7 @@ if __name__ == '__main__':
     [sg.Output(size=(50, 8), key='_TOKEN_OUTPUT_')]
 ]
 
-  window = sg.Window('Token recognizer', layout, size=(400,450), resizable=True)
+  window = sg.Window('Token recognizer', layout, size=(400,480), resizable=True)
 
   while True:
     event, values = window.read()
@@ -35,8 +34,8 @@ if __name__ == '__main__':
     if event in (sg.WIN_CLOSED, 'Cancel'):
       break
     elif event == 'OK':
-      selectedFile = values[0]
-      if selectedFile:
+      antlrFolderPath, selectedFile = values[0], values[1]
+      if selectedFile and antlrFolderPath:
         try:
           with open(selectedFile, 'r', encoding='utf-8') as file:
              with open(selectedFile, 'r', encoding='utf-8') as file:
@@ -44,9 +43,15 @@ if __name__ == '__main__':
               window['_FILE_CONTENT_'].print(content)
 
           dados = antlr4.FileStream(selectedFile, encoding='utf-8')
-          lexer = TextLexer.TextLexer(dados)
+
+          pathToLexerModule = os.path.join(antlrFolderPath, 'TextLexer.py').replace('\\', '/')
+          spec = importlib.util.spec_from_file_location('TextLexer', pathToLexerModule)
+          lexerModule = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(lexerModule)
+          lexer = lexerModule.TextLexer(dados)
+
           for tok in lexer.getAllTokens():
-            window['_TOKEN_OUTPUT_'].print(f'{tok.text} -> {getTokenNameById(tok.type)}')
+            window['_TOKEN_OUTPUT_'].print(f'{tok.text} -> {getTokenNameById(tok.type, antlrFolderPath)}')
         except Exception as e:
           print(e)
           print('Error reading file')
