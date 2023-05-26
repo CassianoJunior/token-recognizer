@@ -1,72 +1,52 @@
 import PySimpleGUI as sg
-from antlr4 import *
-from gen.TextLexer import TextLexer
+import antlr4
+from generated import TextLexer
+import os
 
-def mainScreen():
-    sg.theme("DarkGrey2")
-    layout = [
-        [sg.Text("Nome do arquivo-texto com notícias:")],
-        [sg.Input(key="textArquive")],
-        [sg.Button("Visualizar Arquivo"), sg.Button("Extrair Tokens")],
-    ]
-    return sg.Window("Main", layout=layout, finalize=True)
+def getTokenNameById(id: int):
+  # Get the directory where this script is located
+  scriptDir = os.path.dirname(os.path.abspath(__file__))
 
-def showNews():
-    sg.theme("DarkGrey2")
-    layout = [
-        [sg.Text("Notícias:")],
-        [sg.Output(size=(80,30))],
-        [sg.Button("Voltar")],
-    ]
-    return sg.Window("showNews", layout=layout, finalize=True)
+  # Construct the path to the Text.tokens file relative to the script directory
+  path = os.path.join(scriptDir, 'generated', 'Text.tokens')
 
-def showTokens():
-    sg.theme("DarkGrey2")
-    layout = [
-        [sg.Text("Tokens Encontrados:")],
-        [sg.Output(size=(50,30))],
-        [sg.Button("Voltar")],
-    ]
-    return sg.Window("showTokens", layout=layout, finalize=True)
+  with open(path, 'r') as file:
+    for line in file:
+      name, identifier = line.split('=')
+      if int(identifier.strip()) == id:
+        return name
 
-def openTxtArquive(nameArquive):
-    try:
-        data = FileStream(f'./scraper/{nameArquive}', encoding='ansi')
-        return data
-    except FileNotFoundError:
-        sg.popup('Arquivo inexistente')
+if __name__ == '__main__':
+  layout = [
+    [sg.Text('Select a file to analyze:')],
+    [sg.Input(), sg.FileBrowse()],
+    [sg.OK(), sg.Cancel()],
+    [sg.Text('File content:')],
+    [sg.Output(size=(50, 8), key='_FILE_CONTENT_')],
+    [sg.Text('Token output:')],
+    [sg.Output(size=(50, 8), key='_TOKEN_OUTPUT_')]
+]
 
+  window = sg.Window('Token recognizer', layout, size=(400,450), resizable=True)
 
+  while True:
+    event, values = window.read()
 
-initialScreen, showNewsScreen, showTokensScreen = mainScreen(), None, None
+    if event in (sg.WIN_CLOSED, 'Cancel'):
+      break
+    elif event == 'OK':
+      selectedFile = values[0]
+      if selectedFile:
+        try:
+          with open(selectedFile, 'r', encoding='utf-8') as file:
+             with open(selectedFile, 'r', encoding='utf-8') as file:
+              content = file.read()
+              window['_FILE_CONTENT_'].print(content)
 
-while True:
-    window, event, values = sg.read_all_windows()
-    if (window == initialScreen or window == showNewsScreen or window == showTokensScreen) and event == sg.WIN_CLOSED:
-        break
-
-    if window == initialScreen and event == "Visualizar Arquivo":
-        data = openTxtArquive(values["textArquive"])
-        showNewsScreen = showNews()
-        print(str(data).encode('ansi').decode('utf-8'))
-        initialScreen.hide()
-
-    if window == initialScreen and event == "Extrair Tokens":
-        data = openTxtArquive(values["textArquive"])
-        lexer = TextLexer(data)
-        showTokensScreen = showTokens()
-        tokens = open("tokens.txt", "w")
-        for tok in lexer.getAllTokens():
-            try:
-                print(f"Token: {(tok.text).encode('ansi').decode('utf-8')}\t\t\t\ttoken type: {tok.type}")
-            except UnicodeDecodeError:
-                print(f"Token {tok.text} não reconhecido")
-        initialScreen.hide()
-        
-    if window == showNewsScreen and event == "Voltar":
-        showNewsScreen.hide()
-        initialScreen.un_hide()
-
-    if window == showTokensScreen and event == "Voltar":
-        showTokensScreen.hide()
-        initialScreen.un_hide()
+          dados = antlr4.FileStream(selectedFile, encoding='utf-8')
+          lexer = TextLexer.TextLexer(dados)
+          for tok in lexer.getAllTokens():
+            window['_TOKEN_OUTPUT_'].print(f'{tok.text} -> {getTokenNameById(tok.type)}')
+        except Exception as e:
+          print(e)
+          print('Error reading file')
