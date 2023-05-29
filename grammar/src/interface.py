@@ -35,6 +35,8 @@ if __name__ == '__main__':
       break
     elif event == 'OK':
       antlrFolderPath, selectedFile = values[0], values[1]
+      window['_FILE_CONTENT_'].update('')
+      window['_TOKEN_OUTPUT_'].update('')
       if selectedFile and antlrFolderPath:
         try:
           with open(selectedFile, 'r', encoding='utf-8') as file:
@@ -55,3 +57,6 @@ if __name__ == '__main__':
         except Exception as e:
           print(e)
           print('Error reading file')
+      
+      else: 
+        window['_FILE_CONTENT_'].print("Select a file and a folder with AntLR generated files")
