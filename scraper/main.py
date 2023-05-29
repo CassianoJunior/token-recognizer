@@ -33,12 +33,12 @@ if __name__ == '__main__':
       newsSubTitle = newsTitleSection.find('h2')
 
       if newsTitle is not None:
-        with open('news.txt', 'a') as file:
+        with open('news.txt', 'a', encoding = "utf-8") as file:
           file.write(newsTitle.text)
           file.write('\n')
       
       if newsSubTitle is not None:
-        with open('news.txt', 'a') as file:
+        with open('news.txt', 'a', encoding = "utf-8") as file:
           file.write(newsSubTitle.text)
           file.write('\n')
 
@@ -48,11 +48,11 @@ if __name__ == '__main__':
       paragraphs = newsBody.find_all('p')
 
       for p in paragraphs:
-        with open('news.txt', 'a') as file:
+        with open('news.txt', 'a', encoding = "utf-8") as file:
           file.write(p.text)
           file.write('\n')
 
-      with open('news.txt', 'a') as file:
+      with open('news.txt', 'a', encoding = "utf-8") as file:
         file.write('\n')
         file.write('\n') 
   
