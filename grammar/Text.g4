@@ -9,9 +9,9 @@ LINK: ('http' | 'https')'://'WORD+('.'WORD+)+('/'(WORD | WORD'/')+)*;
 
 PONTUATION: '.' | ',' | '!' | '?' | ':' | ';' | '-' | '[' | ']' | '{' | '}' | '(' | ')';
 
-// FIXME: this not has expected behavior, Articles are recognized as acronyms
-ACRONYM: [A-Z]{2,};
+ACRONYM: [A-Z][A-Z]+;
 
+ARTICLE: 'A' | 'As' | 'O' | 'Os' | 'Um' | 'Uns' | 'Uma' | 'Umas';
 
 // FIXME: this not has expected behavior, Start of phrase is recognized as own name
 OWN_NAME: ([A-Z]WORD* (' '[A-Z]WORD)*)+;
@@ -21,7 +21,7 @@ WEEKDAY: 'segunda-feira' | 'terça-feira' | 'quarta-feira' | 'quinta-feira' | 's
 WEEKDAY_WITH_NUMBER: WEEKDAY ' ' (NUM | '('NUM')');
 
 // áóíéúãàêõçÁÓÍÉÚÃÀÊõÇ
-WORD: [a-záóíéúâÂêãàõôÔçÁÓÍÉÚÃÀÊÕÇ-]+;
+WORD: [a-zA-ZáóíéúâÂêãàõôÔçÁÓÍÉÚÃÀÊÕÇ-]+;
 
 MONEY: (('R$' | 'US$' | '€' | '£' | '¥') ' ' NUM);
 
